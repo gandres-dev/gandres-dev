@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @gandres-dev
-- 👀 I’m interested in computer sciences
+- 🤖 I’m interested in computer sciences and data sciences
+
+<!--
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me email
+-->
 
 <!---
 gandres-dev/gandres-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
