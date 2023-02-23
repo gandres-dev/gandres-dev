@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Guillermo
-- 🤖 I’m interested in computer sciences and data sciences
+Hi, I’m Guillermo and I’m interested in computer sciences and data sciences stuffs.
 
 <!--
 - 🌱 I’m currently learning javascript
